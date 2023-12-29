@@ -73,7 +73,7 @@ npm run dev
 | -- | -- detail  应用详情页面文件夹
 | -- | -- | -- AppDetails.vue  详情组件
 | -- | -- search   应用搜索页面文件夹
-| -- | -- | -- index.vue  首页组件
+| -- | -- | -- indexPage.vue  首页组件
 | -- | -- | -- AppLists.vue  列表组件
 | -- | -- | -- RecommendApp.vue  推荐组件
 | -- | -- | -- SearchInput.vue  搜索组件
