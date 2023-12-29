@@ -1,0 +1,8 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  padding: 10px;
+  font-weight: normal ;
+  overflow: hidden;
+}
